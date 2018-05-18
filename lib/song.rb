@@ -20,7 +20,7 @@ class Song
     # if artist.nil? 
     #   nil 
     # else
-    #   self.artist.name
+      self.artist.name
     # end
   end
   
